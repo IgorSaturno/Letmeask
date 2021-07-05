@@ -67,6 +67,6 @@ REACT_APP_APP_ID = &quot;&quot;
     </clipboard-copy>
   </div></div>
   <h3>Projeto desenvolvido por</h3>
-<p><a href="https://www.linkedin.com/in/igornascimentosaturnino/" rel="nofollow">Linkedin: Igor Saturnino</a></p>
+  [![Linkedin Badge](https://img.shields.io/badge/-Igor%20Saturnino-9466FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igornascimentosaturnino/)](https://www.linkedin.com/in/igornascimentosaturnino/)
 <h3>Projeto original</h3>
 <p><a href="https://www.linkedin.com/school/rocketseat/" rel="nofollow"><img src="https://camo.githubusercontent.com/704fabcb9ce2cbd0561b5486ca8cf09ae93be694df8d25f7550e159ab05af350/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d526f636b6574736561742d3934363646463f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f7363686f6f6c2f726f636b6574736561742f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Rocketseat-9466FF?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/school/rocketseat/" style="max-width:100%;"></a></p>
