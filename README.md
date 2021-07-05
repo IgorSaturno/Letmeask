@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GamePlay" height="80" title="Plant Manager" src="./src/assets/images/logo.svg" />
+ <img alt="GamePlay" height="80" title="Plant Manager" src="./src/assets/images/logo.svg" />
 </h1>
 
 ![cover](./src/assets/images/screencapture-letmeask.png)
@@ -54,3 +54,4 @@ REACT_APP_APP_ID = ""
 ### Projeto original
 #
 [![Linkedin Badge](https://img.shields.io/badge/-Rocketseat-9466FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/school/rocketseat/)](https://www.linkedin.com/school/rocketseat/)
+
