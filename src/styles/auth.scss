@@ -2,7 +2,7 @@
     display: flex;
     align-items: stretch;
     height: 100vh;
-
+    
     aside {
         flex: 7;
     
@@ -140,4 +140,23 @@
             margin-left: 16px;
         }
     }
+}
+
+@media only screen and(max-width:600px){
+#page-auth {
+    flex-direction: column;
+}
+
+#page-auth aside {
+    padding: 51px 70px !important;
+}
+
+#page-auth main {
+    padding: 51px 32px;
+}
+
+.main-content {
+    padding: 130px 0 130px 0;
+}
+    
 }
